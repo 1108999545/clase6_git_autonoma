@@ -1,2 +1,2 @@
 # clase6_git_autonoma
-## desde la pagina 2
+## desde la pagina 2 prueba
